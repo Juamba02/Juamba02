@@ -1,4 +1,10 @@
-### Hi there 👋
+###👋 Hi there, my name is Juan Bautista Aramberri.
+
+>_ About me:
+
+I'm a Junior Web Developer.
+
+ILinkedin_Follow
 
 <!--
 **Juamba02/Juamba02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
