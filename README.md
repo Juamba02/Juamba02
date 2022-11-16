@@ -2,11 +2,15 @@
 
 >_ About me:
 
-I'm a Junior Web Developer.
+I'm a Junior Web Developer, looking forward to start gaining working experience. 
+I want to become a Full Stack Web Developer and currently I'm working on learning every programming language step by step.
+- 🌱 I’m currently learning SQL.
+- 📫 How to reach me:
+  - www.linkedin.com/in/juanbautistaaramberri
+  - juanaramberri02@gmail.com
 
-Linkedin_Follow
 
-<!--
+<!-- 
 **Juamba02/Juamba02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
