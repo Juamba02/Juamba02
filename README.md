@@ -8,6 +8,7 @@ I want to become a Full Stack Web Developer and currently I'm working on learnin
 - 📫 How to reach me:
   
   - [![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juanbautistaaramberri)
+  - [![Gmail](https://img.shields.io/badge/Gmail-lightgrey?style=for-the-badge&logo=gmail&logoColor=red&labelColor=white)](juanaramberri02@gmail.com)
 
 ### >_ Skills:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
