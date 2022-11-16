@@ -1,4 +1,4 @@
-###👋 Hi there, my name is Juan Bautista Aramberri.
+### **👋 Hi there, my name is Juan Bautista Aramberri.**
 
 >_ About me:
 
