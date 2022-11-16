@@ -4,7 +4,7 @@
 
 I'm a Junior Web Developer.
 
-ILinkedin_Follow
+Linkedin_Follow
 
 <!--
 **Juamba02/Juamba02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
