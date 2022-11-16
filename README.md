@@ -14,8 +14,8 @@ I want to become a Full Stack Web Developer and currently I'm working on learnin
 [![Html5 Follow](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
 [![css3 Follow](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
 </br>
-[![C Follow](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white&labelColor=blue)]
-[![Unity_Follow](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=black&labelColor=white)]
+![C Follow](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c&logoColor=white&labelColor=blue)
+![Unity_Follow](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity&logoColor=black&labelColor=white)
 
 And more to come! 😄
 
