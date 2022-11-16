@@ -1,6 +1,6 @@
 ### **👋 Hi there, my name is Juan Bautista Aramberri.**
 
->_ About me:
+### >_ About me:
 
 I'm a Junior Web Developer, looking forward to start gaining working experience. 
 I want to become a Full Stack Web Developer and currently I'm working on learning every programming language step by step.
