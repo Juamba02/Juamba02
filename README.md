@@ -4,12 +4,13 @@
 
 I'm a Junior Web Developer, looking forward to start gaining working experience. 
 I want to become a Full Stack Web Developer and currently I'm working on learning every programming language step by step.
-- 🌱 I’m currently learning ReactJS.
+- 🌱 I’m currently learning React Native.
 - 📫 How to reach me:
   
   - [![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/juanbautistaaramberri)
 
 ### >_ Skills:
+[![ReactJS](https://img.shields.io/badge/reactjs-black?style=for-the-badge&logo=react&logoColor=#77D4F2&labelColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](#)
 [![Html5 Follow](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
 [![css3 Follow](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
